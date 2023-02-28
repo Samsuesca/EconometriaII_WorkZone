@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "econometriaii",
+  "private_key_id": "d5430bcb8df9a6277c49fa426f37f821268b816e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCWr4tXa8kYggXK\nqvL73F1U6vy55zXn2XtPfsyvQtCGXMA6UcmQ6EvbMuBl9sGNQVcqaslSC2zZYHw1\nLsHBoEUuucqC+VOPagb6CRG/b7rCXTMX9nF1yQ3SqK0iNSAq5ynCZoYDlFvZJ4ol\n2YZHMcFtoidC1lm+e/H1mxcZ68qLhGZWjskwpHo5GgqiJnADYHOLk3x1LM0z7vls\nqwSjRNBsEUfMrnaPoTiXKUsTmPzgXR+4jCpt9xylXbkJCO641yH0GV1CzifHoQiy\n7MQr1iTDXtI2ZJl2o/W1zD7w8hEzbgdMmqtXJ3Ojv3iMP50SFQ+l/9SEVJG1aU9I\ngowWOF2DAgMBAAECggEAELZKcXkqVfYBt28LQOS5UzQ2sFWU1HB57SCmid+Sqfw6\nc51jihdBZn+3hIeAAu8WwEUUq+1JdrhtPia/5X4lfh+r9qe5XUQInw2HcuBs6aaV\nhphWEBaq2kzL2unide+qYX2malo3b5ejijwcWOQLTGH6Eb8dN/OeK7u2LbFJhvyO\nHNcME+iDojjzaGhGPlMO48mlDFCBfnICGJPOrf0dlVGw7Xa7AJU5NfEx5lVh74ZR\nsI6mgOCsSlKat83YPho66pxc71EqVGiXnrbkNTlClm3foLmwqTM/VeHoA1DPkClp\nc3FUVX2WJL3qrw2AI/fkwm82HDiUuXxJS7w+pmY65QKBgQDHZHg0/SSePx3z4OHd\nnu1ibp5RQ0QO5WWx4oWTjucyHU2AiBSQZ4p+tWfNR14t4p9xP0KvkHHFIr+JV6u2\nj6q5Sx3L/74bsZ7sNB/VSUNKJ4OsibWbqQQHcHkKcyg2hKQWMklqj52C8M1ofU8N\n4kFHwgH6npo25GwjJcxmkr8UPwKBgQDBdyVASjskhbgOUxwCmfBSJzSkTU8MSWBa\nEAXN/5NBsp9sE6OfAA2Bb2p3mRRkIrIjqBnFjKF+o+wuPAHfmc87ftTgSlUJ+Fr4\nt9b0w0gI4cCfx8rIzN7nWGxxtt6V83O31uVB4KvjVsD8UX/4ZDdt2wLr3LjuJClm\nP6TJcTLVvQKBgFFTDxw9q3PHtoXD0Ru9OIEPMQ9f6iBRO/sjsuuOO4nbHcMwvYJw\nWLJ5ds7pLuZ0Kifcb2x/84c+NvTjhyu8yRsuIgcUVguhlHougFVTvlg+aZwzxpio\nhPYrz5KNiXdC/lH3TK5jyRCg+oaFpXq6L3n/DSOVEL0WyWxEfGvRqpGtAoGAIhe5\n88thAr2hwrx4mijAhemsyCtre7HOjfB25Wddbt1oZKZNVi6vMpkMvQi35DGNDOWJ\nrRtsNiHy8+7VMa8sKsLeBqxysfAXL+9NrRJgtlf6Fu4hWSNpQIF/ksZ0ER62zLXM\n7sAF6mkWVyCRmZcngW9v41qhKC4tMXyTsIAHQk0CgYB8218/hpPMyBgrpk8sy2aB\nYfWSS867OO2Ph37lqmobZ9EmcXWWtVxIJcvdD3F4Y7aPBDc1Tjhb/y9Xg52XVJ2/\nBErzT60FwG58b1E1UR7y5MomFaIWFGGauQLsnA1ZDgR8Qf4WKdvkiuKAqSUE4R/4\nvyLxjuSFeXGEP+eQ72gXwA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "samsuesca@econometriaii.iam.gserviceaccount.com",
+  "client_id": "113798259863326824319",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/samsuesca%40econometriaii.iam.gserviceaccount.com"
+}
